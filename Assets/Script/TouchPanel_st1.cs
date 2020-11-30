@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class TouchPanel : MonoBehaviour, IPointerDownHandler
+public class TouchPanel_st1 : MonoBehaviour, IPointerDownHandler
 {
     public int count;
    public void OnPointerDown(PointerEventData data)
