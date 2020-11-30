@@ -4,5 +4,56 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FifthEnd.unity
+    guid: 4f1713504b5eb8f48a6e99db73dc3a96
+  - enabled: 1
+    path: Assets/Scenes/FifthHint.unity
+    guid: 2546659d746c9a34faed995c84cece3c
+  - enabled: 1
+    path: Assets/Scenes/FifthQuestion.unity
+    guid: 300cedb314d840a44b08d1d7aa81722d
+  - enabled: 1
+    path: Assets/Scenes/FirstEnd.unity
+    guid: 6776a9dcbfcf9684bba679487e37728b
+  - enabled: 1
+    path: Assets/Scenes/FirstHint.unity
+    guid: e0d12ab9c6ca28140951f83af915db77
+  - enabled: 1
+    path: Assets/Scenes/FirstQuestion.unity
+    guid: 95e1229a2bb4e7d4099da707902ea778
+  - enabled: 1
+    path: Assets/Scenes/FourthEnd.unity
+    guid: b5ca89d95338f5f4387613de8a968ab3
+  - enabled: 1
+    path: Assets/Scenes/FourthHint.unity
+    guid: 0ac27cef5a5ec2b459ef06b11fc48f3b
+  - enabled: 1
+    path: Assets/Scenes/FourthQuestion.unity
+    guid: 4f91829e293c36a4096212986d2c4b5e
+  - enabled: 1
+    path: Assets/Scenes/Last.unity
+    guid: 1f80468acba27ce43878935220936781
+  - enabled: 1
+    path: Assets/Scenes/SecondEnd.unity
+    guid: 4eaa602e7ccba04428db2efb9d499b04
+  - enabled: 1
+    path: Assets/Scenes/SecondHint.unity
+    guid: 639f825e5170a9a429abb904bb448f7e
+  - enabled: 1
+    path: Assets/Scenes/SecondQuestion.unity
+    guid: dc021d96a8e576b49a4fcd8939e4c297
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 3551dc6b54e13964db505208599c0cd0
+  - enabled: 1
+    path: Assets/Scenes/ThirdEnd.unity
+    guid: 1988619cc4db4874490bceb55ed5cdfe
+  - enabled: 1
+    path: Assets/Scenes/ThirdHint.unity
+    guid: 9efafc4673c58284cb2f5c3105bf6a5e
+  - enabled: 1
+    path: Assets/Scenes/ThirdQuestion.unity
+    guid: 8d2266a59acbee74b9d57a59e73f7468
   m_configObjects: {}
