@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
-  productGUID: 2d3ae448f436d5c469acd99776f1a6db
+  productGUID: 82f2e5ad3a0a4f348a87bdf27b460f6d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -251,8 +251,8 @@ PlayerSettings:
   iOSRequireARKit: 0
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
-  clonedFromGUID: 5f34be1353de5cf4398729fda238591b
-  templatePackageId: com.unity.template.2d@3.3.0
+  clonedFromGUID: 4073e0e31d1de264dad9a21a72dab0d5
+  templatePackageId: 
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   AndroidTargetArchitectures: 1
   AndroidSplashScreenScale: 0

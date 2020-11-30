@@ -4,5 +4,41 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 03c553b1a3404d54ab72e2ac0e6fcaf1
+  - enabled: 1
+    path: Assets/Scenes/How_stage1.unity
+    guid: 8d17a3a0b6b7611459315fe06e86ef4a
+  - enabled: 1
+    path: Assets/Scenes/Stage1_quiz1.unity
+    guid: c5c5214188956584caf35b3cee39c146
+  - enabled: 1
+    path: Assets/Scenes/Stage1_quiz2.unity
+    guid: c831c2aa09d1aa546a08ecf2fecc2458
+  - enabled: 1
+    path: Assets/Scenes/Stage1_quiz3.unity
+    guid: 56c6b50cc85d6ea4d933c2ee6a8ad372
+  - enabled: 1
+    path: Assets/Scenes/Stage1_quiz4.unity
+    guid: bcd1ddfeebc6c764eb1ae1eac48ff3b4
+  - enabled: 1
+    path: Assets/Scenes/Stage1_quiz5.unity
+    guid: 66dc7828ff5cef648ae15e68268ccbfd
+  - enabled: 1
+    path: Assets/Scenes/End_stage1.unity
+    guid: 39e8439eb8dfe9a4fa1c94ae33e8e838
+  - enabled: 1
+    path: Assets/Scenes/ex.st2.unity
+    guid: 797e977e1f5bcd8439fba55049a2e5c2
+  - enabled: 1
+    path: Assets/Scenes/ex.st3.unity
+    guid: d763a52f6ac64924a937a91aec7a0bd7
+  - enabled: 1
+    path: Assets/Scenes/ex.st4.unity
+    guid: 4bf3fad40dc44a3489ab0089d439d666
+  - enabled: 1
+    path: Assets/Scenes/ex.st5.unity
+    guid: 91deae0c1cf92114da7152626e1c48fe
   m_configObjects: {}
