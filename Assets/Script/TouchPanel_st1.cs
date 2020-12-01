@@ -38,7 +38,7 @@ public class TouchPanel_st1 : MonoBehaviour, IPointerDownHandler
             case 5:
 
                 Debug.Log("c6");
-                Application.LoadLevel("End_stage1");
+                Application.LoadLevel("Stage1_End_stage1");
                 break;
             case 6:
 

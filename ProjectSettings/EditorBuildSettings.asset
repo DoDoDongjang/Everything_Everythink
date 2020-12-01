@@ -6,60 +6,58 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/FifthEnd.unity
+    path: Assets/Scenes/Stage4_FifthEnd.unity
     guid: 4f1713504b5eb8f48a6e99db73dc3a96
   - enabled: 1
-    path: Assets/Scenes/FifthHint.unity
+    path: Assets/Scenes/Stage4_FifthHint.unity
     guid: 2546659d746c9a34faed995c84cece3c
   - enabled: 1
-    path: Assets/Scenes/FifthQuestion.unity
+    path: Assets/Scenes/Stage4_FifthQuestion.unity
     guid: 300cedb314d840a44b08d1d7aa81722d
   - enabled: 1
-    path: Assets/Scenes/FirstEnd.unity
+    path: Assets/Scenes/Stage4_FirstEnd.unity
     guid: 6776a9dcbfcf9684bba679487e37728b
   - enabled: 1
-    path: Assets/Scenes/FirstHint.unity
+    path: Assets/Scenes/Stage4_FirstHint.unity
     guid: e0d12ab9c6ca28140951f83af915db77
   - enabled: 1
-    path: Assets/Scenes/FirstQuestion.unity
+    path: Assets/Scenes/Stage4_FirstQuestion.unity
     guid: 95e1229a2bb4e7d4099da707902ea778
   - enabled: 1
-    path: Assets/Scenes/FourthEnd.unity
+    path: Assets/Scenes/Stage4_FourthEnd.unity
     guid: b5ca89d95338f5f4387613de8a968ab3
   - enabled: 1
-    path: Assets/Scenes/FourthHint.unity
+    path: Assets/Scenes/Stage4_FourthHint.unity
     guid: 0ac27cef5a5ec2b459ef06b11fc48f3b
   - enabled: 1
-    path: Assets/Scenes/FourthQuestion.unity
+    path: Assets/Scenes/Stage4_FourthQuestion.unity
     guid: 4f91829e293c36a4096212986d2c4b5e
   - enabled: 1
-    path: Assets/Scenes/Last.unity
+    path: Assets/Scenes/Stage4_Last.unity
     guid: 1f80468acba27ce43878935220936781
   - enabled: 1
-    path: Assets/Scenes/SecondEnd.unity
+    path: Assets/Scenes/Stage4_SecondEnd.unity
     guid: 4eaa602e7ccba04428db2efb9d499b04
   - enabled: 1
-    path: Assets/Scenes/SecondHint.unity
+    path: Assets/Scenes/Stage4_SecondHint.unity
     guid: 639f825e5170a9a429abb904bb448f7e
   - enabled: 1
-    path: Assets/Scenes/SecondQuestion.unity
+    path: Assets/Scenes/Stage4_SecondQuestion.unity
     guid: dc021d96a8e576b49a4fcd8939e4c297
   - enabled: 1
-    path: Assets/Scenes/Start.unity
+    path: Assets/Scenes/Stage4_Start.unity
     guid: 3551dc6b54e13964db505208599c0cd0
   - enabled: 1
-    path: Assets/Scenes/ThirdEnd.unity
+    path: Assets/Scenes/Stage4_ThirdEnd.unity
     guid: 1988619cc4db4874490bceb55ed5cdfe
   - enabled: 1
-    path: Assets/Scenes/ThirdHint.unity
+    path: Assets/Scenes/Stage4_ThirdHint.unity
     guid: 9efafc4673c58284cb2f5c3105bf6a5e
   - enabled: 1
-    path: Assets/Scenes/ThirdQuestion.unity
+    path: Assets/Scenes/Stage4_ThirdQuestion.unity
     guid: 8d2266a59acbee74b9d57a59e73f7468
-    path: Assets/Scenes/Home.unity
-    guid: 03c553b1a3404d54ab72e2ac0e6fcaf1
   - enabled: 1
-    path: Assets/Scenes/How_stage1.unity
+    path: Assets/Scenes/Stage1_HowTo.unity
     guid: 8d17a3a0b6b7611459315fe06e86ef4a
   - enabled: 1
     path: Assets/Scenes/Stage1_quiz1.unity
@@ -77,8 +75,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Stage1_quiz5.unity
     guid: 66dc7828ff5cef648ae15e68268ccbfd
   - enabled: 1
-    path: Assets/Scenes/End_stage1.unity
+    path: Assets/Scenes/Stage1_End_stage1.unity
     guid: 39e8439eb8dfe9a4fa1c94ae33e8e838
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/ex.st2.unity
     guid: 797e977e1f5bcd8439fba55049a2e5c2
@@ -86,9 +87,9 @@ EditorBuildSettings:
     path: Assets/Scenes/ex.st3.unity
     guid: d763a52f6ac64924a937a91aec7a0bd7
   - enabled: 1
-    path: Assets/Scenes/ex.st4.unity
-    guid: 4bf3fad40dc44a3489ab0089d439d666
-  - enabled: 1
     path: Assets/Scenes/ex.st5.unity
     guid: 91deae0c1cf92114da7152626e1c48fe
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 03c553b1a3404d54ab72e2ac0e6fcaf1
   m_configObjects: {}

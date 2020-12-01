@@ -58,7 +58,7 @@ public class buttoncontroller : MonoBehaviour
         {
             now_status += 1;
             line.SetActive(true);
-            Application.LoadLevel("How_stage1");
+            Application.LoadLevel("Stage1_HowTo");
         }
         else if(now_status == 1)
         {
@@ -72,14 +72,14 @@ public class buttoncontroller : MonoBehaviour
            // now_status = 2;
             now_status += 1;
             line.SetActive(true);
-            Application.LoadLevel("ex.st3");
+            Application.LoadLevel("Stage3");
         }
         else if (now_status == 3)
         {
            // now_status = 3;
             now_status += 1;
             line.SetActive(false);
-            Application.LoadLevel("ex.st4");
+            Application.LoadLevel("Stage4_start");
         }
         else if (now_status == 4)
         {
